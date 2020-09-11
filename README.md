@@ -33,7 +33,7 @@ Simples projeto para estudo das linguagens bases HTML5, CSS3 e JavaScript ES6. O
 |      Estado      |     Plataforma   |     Tarefa    |
 |      :---:       |       :---:      |      :---     |
 |:heavy_check_mark:|:computer:        |Estrutura da página|
-|:heavy_check_mark:|:computer:        |Cálculo da fórmula|
+|:heavy_check_mark:|:computer:        |Programação da fórmula|
 |:heavy_check_mark:|:computer:        |Verificação de inserções de dados|
 |:x:		           |:computer:        |Experiência do usuário aprimorada|
 
