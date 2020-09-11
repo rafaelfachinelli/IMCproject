@@ -45,7 +45,7 @@ Simples projeto para estudo das linguagens bases HTML5, CSS3 e JavaScript ES6. O
 <p align="center"><b> :computer::iphone: WEB RESPONSIVO </b>
 
 <p align="center">
-  <kbd><img alt="eNaturalist" src="./.github/mobile_demo.gif"/></kbd>
+  <kbd><img alt="IMC Project" src="./.github/desktop_demo.gif"/></kbd>
 <p>
 
 ---
