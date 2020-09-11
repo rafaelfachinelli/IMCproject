@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="eNaturalist" src="./.github/logo.svg"/>
+  <img alt="IMC Project" src="./.github/logo.svg"/>
 <p>
 
 <p align="center"> 
