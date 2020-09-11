@@ -22,7 +22,7 @@
 ---
 ## :computer: Sobre
 
-Pequeno projeto para estudo das linguagens bases HTML5, CSS3 e JavaScript ES6. O calculo de indice de massa corporal utiliza a seguinte fórmula: peso / altura ** 2. O resultado é tabulado pela programação e fornece classificações por níveis.
+Pequeno projeto para estudo das linguagens bases HTML5, CSS3 e JavaScript ES6. O cálculo de índice de massa corporal (IMC) utiliza a seguinte fórmula: peso / altura ** 2. O resultado é tabulado pela programação e fornece classificações por níveis.
 
 ---
 ## :memo: **Roteiro**
