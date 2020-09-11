@@ -15,9 +15,12 @@ body {
   font-family: 'Open sans', sans-serif;
   font-size: 1.3rem;
   line-height: 1.5rem;
+  color: #333;
 }
 
 .container {
+  display: flex;
+  flex-direction: column;
   max-width: 640px;
   margin: 20px auto;
   background: #fff;
@@ -51,7 +54,6 @@ form button {
   height: 50px;
   cursor: pointer;
   margin-top: 30px;
-  border-radius: .8rem;
 }
 
 form button:hover {
@@ -66,4 +68,8 @@ form button:hover {
 .bad {
   background: rgb(235, 126, 126);
   padding: 10px 20px;
+}
+
+.img__logo {
+  height: 7rem;
 }
