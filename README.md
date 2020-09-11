@@ -1,6 +1,3 @@
-# IMCproject
-Pequeno projeto para calcular o índice de massa corporal.
-
 <p align="center">
   <img alt="eNaturalist" src="./.github/logo.svg"/>
 <p>
