@@ -3,12 +3,12 @@
 <p>
 
 <p align="center"> 
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/IMCproject?color=219653&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/IMCproject?color=219653&style=for-the-badge">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/IMCproject?color=EB5757&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/IMCproject?color=EB5757&style=for-the-badge">
   <a href="https://github.com/rafaelfachinelli">
-    <img alt="Feito por Rafael Fachinelli" src="https://img.shields.io/badge/Desenvolvedor-Rafael_Fachinelli-%219653?color=219653&style=for-the-badge">
+    <img alt="Feito por Rafael Fachinelli" src="https://img.shields.io/badge/Desenvolvedor-Rafael_Fachinelli-%EB5757?color=219653&style=for-the-badge">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?color=219653&style=for-the-badge"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?color=EB5757&style=for-the-badge"/>
 <p>
 
 <p align="center">
