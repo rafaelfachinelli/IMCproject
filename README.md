@@ -30,7 +30,7 @@ Simples projeto para estudo das linguagens bases HTML5, CSS3 e JavaScript ES6. O
 
 <div align="center">
 <details>
-<summary>Click to View</summary>
+<summary>Clique para Visualizar</summary>
 
 |      Estado      |     Plataforma   |     Tarefa    |
 |      :---:       |       :---:      |      :---     |
