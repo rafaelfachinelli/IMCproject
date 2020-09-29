@@ -29,6 +29,8 @@ Simples projeto para estudo das linguagens bases HTML5, CSS3 e JavaScript ES6. O
 ## :memo: **Roteiro**
 
 <div align="center">
+<details>
+<summary>Click to View</summary>
 
 |      Estado      |     Plataforma   |     Tarefa    |
 |      :---:       |       :---:      |      :---     |
@@ -37,6 +39,7 @@ Simples projeto para estudo das linguagens bases HTML5, CSS3 e JavaScript ES6. O
 |:heavy_check_mark:|:computer:        |Verificação de inserções de dados|
 |:x:		           |:computer:        |Experiência do usuário aprimorada|
 
+</details>
 </div>
 
 ---
