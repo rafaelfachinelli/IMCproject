@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="IMC Project" src="./.github/logo.svg" width="200px"/>
+  <img alt="IMC Project" src=".github/logo.svg" width="200px"/>
 <p>
 
 <p align="center"> 
